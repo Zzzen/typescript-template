@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "tsc",
     "test": "jest",
     "lint": "eslint && prettier . --check",
     "prepare": "husky install"

@@ -1,2 +1,4 @@
 babel.config.js
 .eslintrc.js
+dist
+*.log
